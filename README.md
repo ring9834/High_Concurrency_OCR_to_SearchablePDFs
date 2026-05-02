@@ -1,2 +1,12 @@
-# OCR_to_SearchPDFs_with_Large_Concurrency
-Object Pool, Channel&lt;T>,ConcurrentDictionary, EnumerateDirectories
+# OCR to SearchPDFs with Large Concurrency
+
+## Critical Techniques
+Object Pool, 
+
+Channel&lt;T>,
+
+ConcurrentDictionary, 
+
+EnumerateDirectories
+
+ThreadLocal<T>
