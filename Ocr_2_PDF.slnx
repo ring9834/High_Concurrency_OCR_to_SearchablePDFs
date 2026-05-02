@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ocr_2_PDF_Tests_Large_Channel_ObjectPool/Ocr_2_PDF_Tests_Large_Channel_ObjectPool.csproj" />
+  <Project Path="Ocr_2_PDF_Tests_Large_Channel_ThreadLocal/Ocr_2_PDF_Tests_Large_Channel_ThreadLocal.csproj" Id="32492d8a-0632-4412-b81d-df11ee34dfa0" />
+  <Project Path="OCR_Data_Models/OCR_Data_Models.csproj" />
+  <Project Path="OCR_Services/OCR_Services.csproj" />
+</Solution>
